@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\TakvimYaprağı\bin\Debug\TakvimYaprağı.exe.config
+C:\Users\Eren\source\repos\TakvimYaprağı\bin\Debug\TakvimYaprağı.exe
+C:\Users\Eren\source\repos\TakvimYaprağı\bin\Debug\TakvimYaprağı.pdb
+C:\Users\Eren\source\repos\TakvimYaprağı\obj\Debug\TakvimYaprağı.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\TakvimYaprağı\obj\Debug\TakvimYaprağı.Form1.resources
+C:\Users\Eren\source\repos\TakvimYaprağı\obj\Debug\TakvimYaprağı.Properties.Resources.resources
+C:\Users\Eren\source\repos\TakvimYaprağı\obj\Debug\TakvimYaprağı.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\TakvimYaprağı\obj\Debug\TakvimYaprağı.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\TakvimYaprağı\obj\Debug\TakvimYaprağı.exe
+C:\Users\Eren\source\repos\TakvimYaprağı\obj\Debug\TakvimYaprağı.pdb
